@@ -24,4 +24,13 @@ Operations<br />
 
 *Allows the user to set time for the RTC module to maintain accurate event timestamps.<br /><br />
 
+Hardware Requirements<br />
+
+*PIC Microcontroller (with UART support)<br />
+*External EEPROM (for event logging)<br />
+*Real-Time Clock (RTC) Module (for timestamping events)<br />
+*LCD/TFT Display (for menu interaction)<br />
+*Push Buttons (for navigation and selection)<br />
+*UART Interface (for log download)
+
 
