@@ -2,7 +2,7 @@
 
 The Car Black Box is an embedded system designed to monitor and log critical vehicular events, similar to aviation black boxes. It captures data such as speed, gear shifts, and collisions, and allows users to interact via a  menu screen. Users can download the stored logs to a laptop using UART communication. The project is implemented on a PIC microcontroller with external EEPROM for event logging.<br />
 
-Operations<br /><br />
+Operations<br />
 
 1.View Log<br />
 *Displays the last 10 events stored in the external EEPROM.<br />
